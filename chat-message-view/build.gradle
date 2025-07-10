@@ -25,6 +25,7 @@ ext {
 }
 
 android {
+    namespace 'me.himanshusoni.chatmessageview'
     compileSdkVersion 29
 //    resourcePrefix "cmv_"
 
